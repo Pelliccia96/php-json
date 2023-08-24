@@ -1,0 +1,47 @@
+[
+    {
+        "name": "HTML",
+        "id": "64e7715e00864",
+        "status": true
+    },
+    {
+        "name": "CSS",
+        "id": "64e7716b1477d",
+        "status": true
+    },
+    {
+        "name": "Bootstrap",
+        "id": "64e7718522890",
+        "status": true
+    },
+    {
+        "name": "JavaScript",
+        "id": "64e7719382c9f",
+        "status": true
+    },
+    {
+        "name": "Vue.js",
+        "id": "64e7725ba902d",
+        "status": true
+    },
+    {
+        "name": "PHP",
+        "id": "64e7739aa1ef7",
+        "status": false
+    },
+    {
+        "name": "MySQL",
+        "id": "64e7742bc3ff1",
+        "status": false
+    },
+    {
+        "name": "Laravel",
+        "id": "64e774a67df49",
+        "status": false
+    },
+    {
+        "name": "GitHub",
+        "id": "64e775021844d",
+        "status": false
+    }
+]
